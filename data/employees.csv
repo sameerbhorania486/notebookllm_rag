@@ -1,0 +1,6 @@
+Employee_ID,First_Name,Last_Name,Department,Job_Title,Location,Joining_Date,Salary,Status
+EMP001,Rahul,Sharma,IT,Software Engineer,Mumbai,2023-04-15,65000,Active
+EMP002,Priya,Patel,Finance,Financial Analyst,Ahmedabad,2022-08-21,58000,Active
+EMP003,Arjun,Mehta,Marketing,Marketing Executive,Surat,2024-01-10,45000,Active
+EMP004,Neha,Shah,HR,HR Executive,Vadodara,2023-11-05,52000,Active
+EMP005,Aman,Khan,Sales,Sales Executive,Pune,2024-06-18,42000,Active
