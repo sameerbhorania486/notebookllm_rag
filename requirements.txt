@@ -5,11 +5,9 @@ langchain-groq==0.3.7
 groq==0.31.0
 python-dotenv
 langchain-community
-langchain-huggingface
 langchain-text-splitters
 langchain-chroma
 chromadb
 fastapi
 uvicorn
 python-multipart
-sentence-transformers==3.4.1
