@@ -11,3 +11,5 @@ chromadb
 fastapi
 uvicorn
 python-multipart
+langchain-transformers==3.4.1
+langchain-huggingface
