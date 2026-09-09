@@ -10,3 +10,5 @@ sentence-transformers
 langchain-text-splitters
 langchain-chroma
 chromadb
+fastapi
+uvicorn
