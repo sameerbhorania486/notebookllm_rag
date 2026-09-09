@@ -1,9 +1,5 @@
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_chroma import chroma
 
-
-def create_embeddings():
-    embeddings = HuggingFaceEmbeddings(
-        model_name="sentence-transformers/all-MiniLM-L6-v2"
-    )
-
-    return embeddings
+def crerate_embeddings():
+    return
+Chroma.DefaultEmbeddingFunction()
